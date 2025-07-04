@@ -10,6 +10,11 @@ export function HeroSection() {
         alt="top-left-blur"
       />
       <img
+        className="md:block hidden absolute left-0 bottom-0 z-[250]"
+        src="bottom-right.svg"
+        alt="bottom-right-blur"
+      />
+      <img
         className="md:hidden block absolute right-0 top-0 z-[300]"
         src="mobile-top-left.svg"
         alt="mobile-top-left-blur"
