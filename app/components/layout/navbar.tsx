@@ -14,7 +14,7 @@ export function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (
-    <header className="h-20 bg-[#0B0C10] border-b border-[#2b303b] w-full fixed top-0 left-0 right-0 px-5 z-[300]">
+    <header className="h-20 bg-[#0B0C10] border-b border-[#2b303b] w-full fixed top-0 left-0 right-0 px-5 z-[400]">
       <nav className="max-w-[1352px] mx-auto size-full py-5 flex items-center justify-between">
         <div className="flex items-center gap-1">
           <Icons.logo className="size-10" />

@@ -39,7 +39,7 @@ export function HeroSection() {
 
       <div className="max-w-[1352px] mx-auto relative md:z-[250]  size-full h-full pb-[100px]  ">
         <div className="w-full md:w-[543px]  flex justify-between flex-col md:h-full max-md:flex max-md:flex-col max-md:items-center  max-md:mx-auto max-md:text-center">
-          <div className="md:space-y-8 w-full relativE z-[300]">
+          <div className="md:space-y-8 w-full relative z-[300]">
             <h1 className="font-cal text-4xl sm:text-5xl l md:text-[80px] bg-[radial-gradient(48.44%_187.46%_at_50%_50%,_#FFFFFF_57.39%,_rgba(255,_255,_255,_0.4)_91.18%)] text-transparent bg-clip-text text-shadow-[0px_12.1px_90.72px_0px_#00000099] leading-[36px] md:leading-[100%] max-md:mx-auto max-md:text-center">
               Tokenized <br className="block md:hidden" /> Assets. Unlocked.
             </h1>
