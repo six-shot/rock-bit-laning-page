@@ -63,7 +63,7 @@ export function HeroSection() {
           </div>
           <video
             src="hero-vid.mp4"
-            className=" md:hidden block  w-full h-[400px] object-cover mt-10"
+            className=" md:hidden block  w-full h-[400px] object-cover -mt-5"
             autoPlay
             loop
             muted
