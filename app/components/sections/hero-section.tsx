@@ -3,7 +3,7 @@ import { Icons } from "../ui/icons";
 
 export function HeroSection() {
   return (
-    <section className="md:py-24 py-16 md:px-5 relative h-[calc(100vh-80px)] ">
+    <section className="md:py-24 py-16 md:px-5 relative md:h-[calc(100vh-80px)] h-full">
       <img
         className="md:block hidden absolute right-0 top-0 z-[250]"
         src="top-left.svg"
